@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontBackSync.Backend", "FrontBackSync.Backend\FrontBackSync.Backend.csproj", "{D5949E85-6B69-4F96-8B60-380F35825924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontBackSync.Frontend", "FrontBackSync.Frontend\FrontBackSync.Frontend.csproj", "{C621A0A9-95EB-4818-8330-03F0183B445E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5949E85-6B69-4F96-8B60-380F35825924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5949E85-6B69-4F96-8B60-380F35825924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5949E85-6B69-4F96-8B60-380F35825924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5949E85-6B69-4F96-8B60-380F35825924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C621A0A9-95EB-4818-8330-03F0183B445E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C621A0A9-95EB-4818-8330-03F0183B445E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C621A0A9-95EB-4818-8330-03F0183B445E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C621A0A9-95EB-4818-8330-03F0183B445E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A248925-6BC0-4CF4-926F-CAE4110EF6CD}
+	EndGlobalSection
+EndGlobal
